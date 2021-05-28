@@ -1,0 +1,11 @@
+C:\Users\Get Academy\source\repos\flappy bird windows\flappy bird windows\bin\Debug\flappy bird windows.exe.config
+C:\Users\Get Academy\source\repos\flappy bird windows\flappy bird windows\bin\Debug\flappy bird windows.exe
+C:\Users\Get Academy\source\repos\flappy bird windows\flappy bird windows\bin\Debug\flappy bird windows.pdb
+C:\Users\Get Academy\source\repos\flappy bird windows\flappy bird windows\obj\Debug\flappy bird windows.csprojAssemblyReference.cache
+C:\Users\Get Academy\source\repos\flappy bird windows\flappy bird windows\obj\Debug\flappy_bird_windows.Form1.resources
+C:\Users\Get Academy\source\repos\flappy bird windows\flappy bird windows\obj\Debug\flappy_bird_windows.Properties.Resources.resources
+C:\Users\Get Academy\source\repos\flappy bird windows\flappy bird windows\obj\Debug\flappy bird windows.csproj.GenerateResource.cache
+C:\Users\Get Academy\source\repos\flappy bird windows\flappy bird windows\obj\Debug\flappy bird windows.csproj.CoreCompileInputs.cache
+C:\Users\Get Academy\source\repos\flappy bird windows\flappy bird windows\obj\Debug\flappy bird windows.exe
+C:\Users\Get Academy\source\repos\flappy bird windows\flappy bird windows\obj\Debug\flappy bird windows.pdb
+C:\Users\Get Academy\source\repos\flappy bird windows\flappy bird windows\obj\Debug\flappy_bird_windows.Startscreen.resources
